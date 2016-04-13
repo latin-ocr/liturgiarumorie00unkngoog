@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liturgiarumorie00unkngoog/liturgiarumorie00unkngoog_1359.png"; bbox 0 0 4525 6034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 3925 1406 4538">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 3925 611 3958">
+     <span class='ocr_line' id='line_1_1' title="bbox 608 3925 611 3958; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 608 3925 611 3958; x_wconf 95' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 608 4026 1406 4538">
+     <span class='ocr_line' id='line_1_2' title="bbox 608 4026 1406 4538; baseline -0.018 -371"><span class='ocrx_word' id='word_1_2' title='bbox 608 4043 611 4190; x_wconf 57' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_3' title='bbox 639 4099 859 4181; x_wconf 59' lang='lat' dir='ltr'><strong>Remum,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 887 4081 1036 4161; x_wconf 67' lang='lat' dir='ltr'>Eus3be</span> <span class='ocrx_word' id='word_1_5' title='bbox 1266 4026 1406 4538; x_wconf 50' lang='grc' dir='ltr'><em>ἶ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 609 4200 965 4294; baseline -0.02 -25"><span class='ocrx_word' id='word_1_6' title='bbox 609 4221 611 4294; x_wconf 61' lang='grc' dir='ltr'>ῃ</span> <span class='ocrx_word' id='word_1_7' title='bbox 688 4200 965 4281; x_wconf 66' lang='lat' dir='ltr'><strong>murgum</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 609 4301 1182 4422">
+     <span class='ocr_line' id='line_1_4' title="bbox 609 4301 1182 4422; baseline -0.01 -48"><span class='ocrx_word' id='word_1_8' title='bbox 609 4323 612 4422; x_wconf 52' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 639 4301 1182 4374; x_wconf 69' lang='lat' dir='ltr'><strong>0r1ental1meollect1o.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2268 6034">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2268 6034">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2268 6034; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2268 6034; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1089 5527 1568 5959">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1089 5527 1568 5959">
+     <span class='ocr_line' id='line_1_6' title="bbox 1089 5527 1568 5959; baseline -0.015 4"><span class='ocrx_word' id='word_1_11' title='bbox 1089 5527 1568 5959; x_wconf 59' lang='grc' dir='ltr'><strong>Π</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
